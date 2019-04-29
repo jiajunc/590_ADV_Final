@@ -30,22 +30,22 @@
 ---
 
 **Relation between GIN and Life Expectancy**
-<div><img src="/images/Life_GNI_Scatter.png" style="border:0;width:1000px"></div>
+<div><img src="./images/Life_GNI_Scatter.png" style="border:0;width:1000px"></div>
 
 --
 
 **Relation between GIN and Life Expectancy**
-<div><img src="/images/Life_GNI_Scatter_scaled.png" style="border:0;width:1000px"></div>
+<div><img src="./images/Life_GNI_Scatter_scaled.png" style="border:0;width:1000px"></div>
 
 --
 
 **Scaled by population**
-<div class="fragment"><img src="/images/Life_GNI_Scatter_Size.png" style="border:0;width:1000px"></div>
+<div class="fragment"><img src="./images/Life_GNI_Scatter_Size.png" style="border:0;width:1000px"></div>
 
 --
 
 **Colored by continent**
-<div class="fragment"><img src="/images/Life_GNI_Scatter_Color.png" style="border:0;width:1000px"></div>
+<div class="fragment"><img src="./images/Life_GNI_Scatter_Color.png" style="border:0;width:1000px"></div>
 
 ---
 
