@@ -44,7 +44,7 @@
 
 --
 
-**Colored by continent**
+**Coloring by continent**
 <div class="fragment"><img src="./images/Life_GNI_Scatter_Color.png" style="border:0;width:1000px"></div>
 
 ---
