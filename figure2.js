@@ -7,11 +7,11 @@ var yourVlSpec2 = {
     "mark": "point",
     "transform": [
       {
-        "fold": ["Life Expectancy at Birth", "Mean Years of Education", "Gross National Income (GNI) per Capita"],
+        "fold": ["life", "expected_education", "gni"],
         "as": ["var_x", "val_x"]
       },
           {
-        "fold": ["Life Expectancy at Birth", "Mean Years of Education", "Gross National Income (GNI) per Capita"],
+        "fold": ["life", "expected_education", "gni"],
         "as": ["var_y", "val_y"]
       },
       {
@@ -33,7 +33,7 @@ var yourVlSpec2 = {
         "bind": {
           "input": "select",
           "options": [
-            "Life Expectancy at Birth", "Mean Years of Education", "Gross National Income (GNI) per Capita"
+            "life", "expected_education", "gni"
           ]
         }
       },
@@ -45,7 +45,7 @@ var yourVlSpec2 = {
         "bind": {
           "input": "select",
           "options": [
-            "Life Expectancy at Birth", "Mean Years of Education", "Gross National Income (GNI) per Capita"
+            "life", "expected_education", "gni"
           ]
         }
       }
