@@ -18,8 +18,8 @@
 
 **Basic Data Visualization**
 <div>
-<img src="/images/Countries_Pie.png" style="border:0;width:800px">
-<img src="/images/Life_Expectancy_Histogram.png" style="border:0;width:800px">
+<img src="./images/Countries_Pie.png" style="border:0;width:800px">
+<img src="./images/Life_Expectancy_Histogram.png" style="border:0;width:800px">
 </div>
 
 ---
