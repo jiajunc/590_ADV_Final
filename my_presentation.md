@@ -64,12 +64,12 @@
 --
 
 **HDI of 2015**
-- [Map](./image/HDI_Map.html)
+- [Map](./images/HDI_Map.html)
 
 --
 
 **HDI over years**
-- [Multiline](./image/HDI_Multiline.html)
+- [Multiline](./images/HDI_Multiline.html)
 - [Race Bar Char]()
 
 ---
