@@ -7,11 +7,11 @@ var yourVlSpec2 = {
     "mark": "point",
     "transform": [
       {
-        "fold": ["life", "expected_education", "gni"],
+        "fold": ["life", "mean_education", "gni"],
         "as": ["var_x", "val_x"]
       },
           {
-        "fold": ["life", "expected_education", "gni"],
+        "fold": ["life", "mean_education", "gni"],
         "as": ["var_y", "val_y"]
       },
       {
@@ -33,7 +33,7 @@ var yourVlSpec2 = {
         "bind": {
           "input": "select",
           "options": [
-            "life", "expected_education", "gni"
+            "life", "mean_education", "gni"
           ]
         }
       },
@@ -45,7 +45,7 @@ var yourVlSpec2 = {
         "bind": {
           "input": "select",
           "options": [
-            "life", "expected_education", "gni"
+            "life", "mean_education", "gni"
           ]
         }
       }
