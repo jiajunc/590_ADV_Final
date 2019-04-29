@@ -39,8 +39,8 @@ var yourVlSpec3 = {
             "type": "quantitative"
           }
         },
-        "width": 1000,
-        "height": 1000,
+        "width": 700,
+        "height": 700,
         "mark": "point",
         "selection": {"brush": {"encodings": ["x"], "type": "interval"}},
         "transform": [
@@ -64,7 +64,7 @@ var yourVlSpec3 = {
           "x": {"aggregate": "count", "type": "quantitative"},
           "y": {"title": "Continent", "field": "continent", "type": "nominal"}
         },
-        "width": 1000,
+        "width": 700,
         "mark": "bar",
         "selection": {"click": {"encodings": ["color"], "type": "multi"}},
         "transform": [{"filter": {"selection": "brush"}}]
