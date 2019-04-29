@@ -2,7 +2,7 @@ var yourVlSpec2 = {
     "width": 800,
     "height":600,
     "data": {
-      "url": "./human_development.csv"
+      "url": "./adv matplot/human-development/export.csv"
     },
     "mark": "point",
     "transform": [
